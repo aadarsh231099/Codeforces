@@ -26,10 +26,10 @@ int main(){
 
 
 
-ANOTHER APPROACH:-
+//ANOTHER APPROACH:-
 
 
-#include <bits/stdc++.h>
+/*#include <bits/stdc++.h>
 using namespace std;
 void solve(){
   int n,c2=0,c1=0,c=0,cc=0,d=0,b=0;
@@ -71,3 +71,4 @@ int main(){
    }
      return 0;
    }
+   */
