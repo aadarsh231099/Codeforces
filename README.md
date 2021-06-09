@@ -1,4 +1,4 @@
-# All of the problems are under copyright of Codeforces.com
+# All of the problems are under copyright of https://codeforces.com/
 
  Codeforces problems solved.
  
