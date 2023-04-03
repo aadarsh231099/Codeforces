@@ -1,5 +1,5 @@
-//https://codeforces.com/problemset/problem/1370/A
-//Maximum GCD
+//https://codeforces.com/contest/1669/problem/A
+//Division?
 
 #include <bits/stdc++.h>
 using namespace std;
